@@ -1,2 +1,2 @@
 # hello-world
-Tutorial for github
+This is some info about the hello-world project!!
